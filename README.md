@@ -1,6 +1,6 @@
 # DS_M_PPW
 
-3
+3ds max
 max script_PollyPocketWorld
 
 UI 디자인 및 프로그래밍
